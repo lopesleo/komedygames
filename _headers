@@ -5,3 +5,7 @@
   Cache-Control: public, max-age=604800
 /guardiao/assets/*
   Cache-Control: public, max-age=604800
+/guardiao/assets/fonts/*
+  Access-Control-Allow-Origin: *
+/assets/fonts/*
+  Access-Control-Allow-Origin: *
